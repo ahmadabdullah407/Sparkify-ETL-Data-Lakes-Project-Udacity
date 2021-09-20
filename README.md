@@ -56,9 +56,9 @@ Using the song and log datasets, I created a star schema optimized for queries o
 ## Project Template:
 Files used on the project:
 
--   `etl.py`  reads data from S3, processes that data using Spark, and writes them back to S3
--   `dl.cfg`contains your AWS credentials
--   `README.md`  provides discussion on your process and decisions
+-   `etl.py`  reads data from S3, processes that data using Spark, and writes them back to S3.
+-   `dl.cfg`contains AWS credentials, User will have to add his own credentials.
+-   `README.md`  provides discussion on process and decisions.
 
 
 ## Deployment
