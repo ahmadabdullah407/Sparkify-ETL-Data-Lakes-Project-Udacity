@@ -11,7 +11,6 @@ This project makes the folowing assumptions:
     - datetime.
     - os.
 - The data resides in S3.
-- Jupyter Notebook is available.
 - I created my own Amazon EMR cluster but user will need to have his own EMR cluster available on AWS.
 ## Dataset:
 For this project, we shall be working with two datasets that reside in S3. Here are the S3 links for each:
